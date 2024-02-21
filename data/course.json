@@ -2,7 +2,7 @@
   "term": "January IAP",
   "year": "2022",
   "level": [
-    "Non Credit"
+    "Non-Credit"
   ],
   "topics": [
     [
@@ -28,6 +28,7 @@
     "website": "teaching-for-sustainability"
   },
   "course_title": "Teaching with Sustainability",
+  "hide_download": false,
   "course_description": "Solving the interconnected complex problems that pervade our social, environmental, economic, and health systems requires concerted change. To achieve the lasting impact necessary for true change to occur, sustainability needs to be holistically integrated throughout an academic program, leveraging the knowledge of instructors to create a more sustainability-literate population.\n\nThis resource presents materials associated with a four-week noncredit course intended to provide current and future educators with the knowledge and skills to infuse their lessons and practices with sustainability, along with a link to an online resource library designed to help educators find activities and lessons that align with the United Nations Sustainable Development Goals.",
   "department_numbers": [
     "RES"
@@ -39,7 +40,8 @@
     "website": "teaching-for-sustainability"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
   "site_uid": "664db979-0ae9-421b-a470-f3b65b86596b",
   "site_short_id": "res.env-006-iap-2022"
