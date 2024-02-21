@@ -16,7 +16,7 @@ The class ran as four 2-hour sessions during MIT's Independent Activities Period
 
 The goal of this class was to provide participants with the opportunity to connect sustainable pedagogies with their teaching practices.
 
-Each student was asked to think about a lesson, activity, syllabus, whole course design, or other course product that they would like to workshop during the last session with others in our group
+Each student was asked to think about a lesson, activity, syllabus, whole course design, or other course product that they would like to workshop during the last session with others in our group.
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
  

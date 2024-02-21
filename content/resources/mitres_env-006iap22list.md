@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-env-006-teaching-with-sustainability-january-iap-2022/mitres_env-006iap22list.pdf
+file_size: 76829
 file_type: application/pdf
 image_metadata:
   caption: ''
