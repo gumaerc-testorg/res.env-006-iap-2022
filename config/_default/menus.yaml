@@ -11,7 +11,7 @@ leftnav:
   name: Readings
   pageRef: /pages/readings
   weight: 30
-- identifier: external-613464529-1658510416175
+- identifier: c0dc65ac-7382-4bfd-99e9-098039d0ed04
   name: Online Library of Lessons and Activities
-  url: https://scales.mit.edu/lessons-activities-search
+  pageRef: /external-resources/online-library-of-lessons-and-activities_c0dc65ac-7382-4bfd-99e9-098039d0ed04
   weight: 40
