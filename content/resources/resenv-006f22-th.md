@@ -24,4 +24,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-Students in a class on permaculture. (Image courtesy of {{% resource_link "1c94b3b6-e194-453c-9cfa-33f4819b431d" "Milkwood.net" %}} on Flickr. License: CC BY-NC-SA.)
+Students in a class on permaculture. (Image courtesy of [Milkwood.net](https://www.flickr.com/photos/cicada/2629584647) on Flickr. License: CC BY-NC-SA.)
