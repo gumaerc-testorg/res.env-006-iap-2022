@@ -11,7 +11,7 @@ leftnav:
   name: Readings
   pageRef: /pages/readings
   weight: 30
-- identifier: c0dc65ac-7382-4bfd-99e9-098039d0ed04
+- identifier: af118e99-473b-4e18-a630-3924b18b5f15
   name: Online Library of Lessons and Activities
-  pageRef: /external-resources/online-library-of-lessons-and-activities_c0dc65ac-7382-4bfd-99e9-098039d0ed04
+  pageRef: /external-resources/online-library-of-lessons-and-activities_af118e99-473b-4e18-a630-3924b18b5f15
   weight: 40
