@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-env-006-teaching-with-sustainability-january-iap-2022/mitres_env-006iap22week1.pptx
+file: courses/teaching-for-sustainability/mitres_env-006iap22week1.pptx
 file_size: 1217912
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 image_metadata:
