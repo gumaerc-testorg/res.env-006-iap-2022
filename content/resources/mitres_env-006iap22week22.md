@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/teaching-for-sustainability/mitres_env-006iap22week2.pptx
+file: /ol-ocw-studio-app/courses/res-env-006-teaching-with-sustainability-january-iap-2022/mitres_env-006iap22week2.pptx
 file_size: 890610
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Editable Files
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: MITRES_ENV-006iap22week2.pptx
@@ -21,6 +21,7 @@ video_files:
   video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
+  source: ''
   video_speakers: ''
   video_tags: ''
   youtube_description: ''

@@ -10,4 +10,4 @@ Many people associate the word “sustainability” with a few specific activiti
 
 In the episode of the Chalk Radio podcast embedded below, Dr. Potter-Nelson and Sarah Meyers describe how they created the Sustainability and Climate Change Across Learning Environments (SCALES) project, a curated repository of open-source, easily adaptable educational resources, many of them originally adapted from course materials on MIT OpenCourseWare. These resources, which are categorized according to a set of six main pedagogical approaches and six chief competency areas, draw from a surprisingly wide range of academic fields, but each was selected for its potential to support sustainability in the classroom and in the world. After all, Dr. Potter-Nelson and Meyers say, sustainability is an inherently interdisciplinary subject, one that can inform–and be informed by–teaching in nearly any field of study.
 
-{{< simplecast 55dda90c-c565-4e4b-87ee-b2cc446db7eb >}}
+{{< resource uuid="7992f276-d044-4ce1-99fd-900e5c3dc3b2" >}}
